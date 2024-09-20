@@ -1,0 +1,12 @@
+<div class="container">
+  <div class="row mt-5">
+    <div class="col">
+      <img [src]="products?.image" class="card-img-top" />
+    </div>
+    <div class="col">
+      <h2 *ngIf="products" class="card-title">Title: {{ products?.title }}</h2>
+      <h3 *ngIf="products" class="card-title">Price: {{ products?.price }}</h3>
+      <p *ngIf="products" class="card-text">Price: {{ products?.description }}</p>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "San pham A",
+      "description": "Mo ta san pham a",
+      "price": 111,
+      "image": "https://www.healthyfood.com/wp-content/uploads/2017/03/How-to-choose-fruit-juices-and-drinks-1024x1024.jpg"
+    },
+    {
+      "id": 2,
+      "title": "San pham B",
+      "description": "Mo ta san pham a",
+      "price": 111,
+      "image": "https://www.healthyfood.com/wp-content/uploads/2017/03/How-to-choose-fruit-juices-and-drinks-1024x1024.jpg"
+    },
+    {
+      "id": 3,
+      "title": "San pham C",
+      "description": "Mo ta san pham a",
+      "price": 111,
+      "image": "https://www.healthyfood.com/wp-content/uploads/2017/03/How-to-choose-fruit-juices-and-drinks-1024x1024.jpg"
+    },
+    {
+      "id": 4,
+      "title": "San pham C",
+      "description": "Mo ta san pham a",
+      "price": 111,
+      "image": "https://www.healthyfood.com/wp-content/uploads/2017/03/How-to-choose-fruit-juices-and-drinks-1024x1024.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "huyagama@gmail.com",
+      "password": "$2a$10$gKZZ5yM0veiTexDV9T75hOKilJNntAE32aaiqG/3RoOgehws3/JVy",
+      "id": 1
+    }
+  ]
+}
