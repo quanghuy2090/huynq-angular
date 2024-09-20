@@ -6,6 +6,10 @@ type User = {
   password: string;
 };
 
+type LoginResponse = {
+  accessToken: string;
+};
+
 @Injectable({
   providedIn: 'root',
 })
@@ -14,6 +18,10 @@ export class AuthService {
 
   registerUser(data: User) {
     return this.http.post('http://localhost:3000/register', data);
+  }
+
+  loginUser(data: User) {
+    return this.http.post<LoginResponse>('http://localhost:3000/login', data);
   }
   // constructor() { }
 }

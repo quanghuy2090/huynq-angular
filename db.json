@@ -34,6 +34,11 @@
       "email": "huyagama@gmail.com",
       "password": "$2a$10$gKZZ5yM0veiTexDV9T75hOKilJNntAE32aaiqG/3RoOgehws3/JVy",
       "id": 1
+    },
+    {
+      "email": "huyagamaa@gmail.com",
+      "password": "$2a$10$CAklzpLYUD8MigVEJc.ELO7BxbkNoPUZMXqdXdPDfwjRaK0qqLr.m",
+      "id": 2
     }
   ]
 }
